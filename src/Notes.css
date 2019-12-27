@@ -1,0 +1,30 @@
+.notesWrapper {
+  text-align: center;
+  margin: 20px auto;
+  width: 50%;
+  height: 100%;
+}
+
+.input-todo {
+  margin: 12px;
+  text-indent: 5px;
+  border-radius: 4px;
+  border: 1px solid #c8d4e0;
+}
+
+.title-input {
+  width: 178px;
+}
+
+.add-todo {
+  border: solid 1px lightseagreen;
+  border-radius: 4px;
+  padding: 2px 15px;
+  cursor: pointer;
+  background: lightseagreen;
+  color: #fff;
+}
+
+.add-todo:hover {
+  opacity: 0.8;
+}

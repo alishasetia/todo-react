@@ -1,0 +1,21 @@
+.marked {
+  text-decoration: line-through;
+}
+
+.noteWrapper {
+  background-color: aliceblue;
+  margin: 10px;
+  text-align: left;
+  padding: 16px;
+}
+
+.note-title {
+  display: inline;
+  font-weight: bold;
+  margin-left: 45%;
+}
+
+.note-delete {
+  float: right;
+  cursor: pointer;
+}
